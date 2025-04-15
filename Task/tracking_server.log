@@ -1,0 +1,122 @@
+2025-04-14 11:55:25,526 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.170.185:5000
+2025-04-14 11:55:25,538 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-14 11:55:25,564 - INFO -  * Restarting with stat
+2025-04-14 11:55:36,934 - WARNING -  * Debugger is active!
+2025-04-14 11:55:37,032 - INFO -  * Debugger PIN: 115-511-955
+2025-04-14 12:06:19,445 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.170.185:5000
+2025-04-14 12:06:19,494 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-14 12:06:19,514 - INFO -  * Restarting with stat
+2025-04-14 12:06:20,363 - WARNING -  * Debugger is active!
+2025-04-14 12:06:20,376 - INFO -  * Debugger PIN: 115-511-955
+2025-04-14 12:06:26,072 - INFO - 127.0.0.1 - - [14/Apr/2025 12:06:26] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-14 12:06:26,500 - INFO - 127.0.0.1 - - [14/Apr/2025 12:06:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-14 12:06:38,500 - INFO - 192.168.170.185 - - [14/Apr/2025 12:06:38] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-14 12:06:38,620 - INFO - 192.168.170.185 - - [14/Apr/2025 12:06:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-14 12:08:39,732 - INFO -  * Detected change in 'E:\\ISHA\\Task\\Email_Compaign_Analytics.py', reloading
+2025-04-14 12:08:39,829 - INFO -  * Restarting with stat
+2025-04-14 12:08:41,115 - WARNING -  * Debugger is active!
+2025-04-14 12:08:41,126 - INFO -  * Debugger PIN: 115-511-955
+2025-04-14 12:09:17,680 - INFO -  * Detected change in 'E:\\ISHA\\Task\\Email_Compaign_Analytics.py', reloading
+2025-04-14 12:09:17,766 - INFO -  * Restarting with stat
+2025-04-14 12:09:18,883 - WARNING -  * Debugger is active!
+2025-04-14 12:09:19,254 - INFO -  * Debugger PIN: 115-511-955
+2025-04-14 12:19:24,958 - INFO -  * Detected change in 'E:\\ISHA\\Task\\Email_Compaign_Analytics.py', reloading
+2025-04-14 12:19:25,525 - INFO -  * Restarting with stat
+2025-04-14 12:19:29,339 - WARNING -  * Debugger is active!
+2025-04-14 12:19:29,356 - INFO -  * Debugger PIN: 115-511-955
+2025-04-14 12:20:01,137 - INFO -  * Detected change in 'E:\\ISHA\\Task\\Email_Compaign_Analytics.py', reloading
+2025-04-14 12:20:01,239 - INFO -  * Restarting with stat
+2025-04-14 12:20:03,039 - WARNING -  * Debugger is active!
+2025-04-14 12:20:03,047 - INFO -  * Debugger PIN: 115-511-955
+2025-04-14 12:21:51,780 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.170.185:5000
+2025-04-14 12:21:51,842 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-14 12:21:51,846 - INFO -  * Restarting with stat
+2025-04-14 12:21:52,854 - WARNING -  * Debugger is active!
+2025-04-14 12:21:52,891 - INFO -  * Debugger PIN: 115-511-955
+2025-04-14 12:22:07,202 - INFO - 127.0.0.1 - - [14/Apr/2025 12:22:07] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-14 12:22:16,585 - INFO - 192.168.170.185 - - [14/Apr/2025 12:22:16] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-14 12:29:28,206 - INFO -  * Detected change in 'E:\\ISHA\\Task\\Email_compaign_analytics.py', reloading
+2025-04-14 12:29:28,509 - INFO -  * Restarting with stat
+2025-04-14 12:29:29,522 - WARNING -  * Debugger is active!
+2025-04-14 12:29:29,536 - INFO -  * Debugger PIN: 115-511-955
+2025-04-14 12:37:14,556 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.170.185:5000
+2025-04-14 12:37:14,556 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-14 12:37:14,561 - INFO -  * Restarting with stat
+2025-04-14 12:37:15,346 - WARNING -  * Debugger is active!
+2025-04-14 12:37:15,358 - INFO -  * Debugger PIN: 115-511-955
+2025-04-14 15:03:52,014 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.170.185:5000
+2025-04-14 15:03:52,058 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-14 15:03:52,066 - INFO -  * Restarting with stat
+2025-04-14 15:03:52,909 - WARNING -  * Debugger is active!
+2025-04-14 15:03:52,923 - INFO -  * Debugger PIN: 115-511-955
+2025-04-15 09:46:13,093 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.170.185:5000
+2025-04-15 09:46:13,094 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-15 09:46:13,115 - INFO -  * Restarting with stat
+2025-04-15 09:46:13,884 - WARNING -  * Debugger is active!
+2025-04-15 09:46:13,894 - INFO -  * Debugger PIN: 115-511-955
+2025-04-15 09:46:18,037 - INFO - 127.0.0.1 - - [15/Apr/2025 09:46:18] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-15 09:46:18,520 - INFO - 127.0.0.1 - - [15/Apr/2025 09:46:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-15 09:46:34,724 - INFO - 192.168.170.185 - - [15/Apr/2025 09:46:34] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-15 09:46:34,904 - INFO - 192.168.170.185 - - [15/Apr/2025 09:46:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-15 09:47:08,529 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.170.185:5000
+2025-04-15 09:47:08,529 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-15 09:47:08,532 - INFO -  * Restarting with stat
+2025-04-15 09:47:09,291 - WARNING -  * Debugger is active!
+2025-04-15 09:47:09,301 - INFO -  * Debugger PIN: 115-511-955
+2025-04-15 09:54:59,515 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.170.185:5000
+2025-04-15 09:54:59,515 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-15 09:54:59,519 - INFO -  * Restarting with stat
+2025-04-15 09:55:00,351 - WARNING -  * Debugger is active!
+2025-04-15 09:55:00,360 - INFO -  * Debugger PIN: 115-511-955
+2025-04-15 09:55:03,841 - INFO - 127.0.0.1 - - [15/Apr/2025 09:55:03] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-15 10:02:38,325 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.170.185:5000
+2025-04-15 10:02:38,325 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-15 10:02:38,329 - INFO -  * Restarting with stat
+2025-04-15 10:02:39,183 - WARNING -  * Debugger is active!
+2025-04-15 10:02:39,191 - INFO -  * Debugger PIN: 115-511-955
+2025-04-15 10:02:44,865 - INFO - 127.0.0.1 - - [15/Apr/2025 10:02:44] "GET / HTTP/1.1" 200 -
+2025-04-15 10:05:00,986 - INFO - 192.168.170.185 - - [15/Apr/2025 10:05:00] "GET / HTTP/1.1" 200 -
+2025-04-15 10:11:03,194 - INFO -  * Detected change in 'E:\\ISHA\\Task\\tracking_server.py', reloading
+2025-04-15 10:11:04,008 - INFO -  * Restarting with stat
+2025-04-15 10:11:07,208 - WARNING -  * Debugger is active!
+2025-04-15 10:11:07,243 - INFO -  * Debugger PIN: 115-511-955
+2025-04-15 10:12:06,834 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.170.185:5000
+2025-04-15 10:12:06,834 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-15 10:12:06,839 - INFO -  * Restarting with stat
+2025-04-15 10:12:07,671 - WARNING -  * Debugger is active!
+2025-04-15 10:12:07,691 - INFO -  * Debugger PIN: 115-511-955
+2025-04-15 10:12:10,456 - INFO - 127.0.0.1 - - [15/Apr/2025 10:12:10] "GET / HTTP/1.1" 200 -
+2025-04-15 10:12:42,279 - INFO -  * Detected change in 'E:\\ISHA\\Task\\tracking_server.py', reloading
+2025-04-15 10:12:42,353 - INFO -  * Restarting with stat
+2025-04-15 10:12:43,994 - WARNING -  * Debugger is active!
+2025-04-15 10:12:44,014 - INFO -  * Debugger PIN: 115-511-955

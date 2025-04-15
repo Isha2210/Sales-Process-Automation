@@ -1,0 +1,35 @@
+{
+    "20250413191424_0_519a6826": {
+        "lead_id": "0",
+        "company": "Tech Solutions Inc.",
+        "contact": "John Smith",
+        "email": "john.smith@techsolutions.example.com",
+        "sent_time": null,
+        "opened": false,
+        "clicked": false,
+        "responded": false,
+        "last_activity": null
+    },
+    "20250413191424_1_c29640ae": {
+        "lead_id": "1",
+        "company": "Data Analytics Pro",
+        "contact": "Sarah Johnson",
+        "email": "sarah.j@dataanalyticspro.example.com",
+        "sent_time": null,
+        "opened": false,
+        "clicked": false,
+        "responded": false,
+        "last_activity": null
+    },
+    "20250413191424_2_370107f5": {
+        "lead_id": "2",
+        "company": "Cloud Systems LLC",
+        "contact": "Michael Brown",
+        "email": "m.brown@cloudsystems.example.com",
+        "sent_time": null,
+        "opened": false,
+        "clicked": false,
+        "responded": false,
+        "last_activity": null
+    }
+}

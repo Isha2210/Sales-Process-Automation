@@ -1,0 +1,54 @@
+[
+  {
+    "id": "v1001",
+    "visitor_id": "visitor1",
+    "timestamp": "2025-04-12T10:30:00Z",
+    "source": "google",
+    "engagement_time": 120,
+    "converted_to_lead": true,
+    "lead_score": 85,
+    "status": "new",
+    "email": "john.doe@example.com",
+    "name": "John Doe"
+  },
+  {
+    "id": "v1002",
+    "visitor_id": "visitor2",
+    "timestamp": "2025-04-12T11:15:00Z",
+    "source": "facebook",
+    "engagement_time": 90,
+    "converted_to_lead": false
+  },
+  {
+    "id": "v1003",
+    "visitor_id": "visitor3",
+    "timestamp": "2025-04-12T12:00:00Z",
+    "source": "direct",
+    "engagement_time": 180,
+    "converted_to_lead": true,
+    "lead_score": 65,
+    "status": "contacted",
+    "email": "jane.smith@example.com",
+    "name": "Jane Smith"
+  },
+  {
+    "id": "v1004",
+    "visitor_id": "visitor4",
+    "timestamp": "2025-04-12T13:45:00Z",
+    "source": "linkedin",
+    "engagement_time": 150,
+    "converted_to_lead": true,
+    "lead_score": 90,
+    "status": "qualified",
+    "email": "alex.brown@example.com",
+    "name": "Alex Brown"
+  },
+  {
+    "id": "v1005",
+    "visitor_id": "visitor5",
+    "timestamp": "2025-04-12T14:30:00Z",
+    "source": "twitter",
+    "engagement_time": 60,
+    "converted_to_lead": false
+  }
+]

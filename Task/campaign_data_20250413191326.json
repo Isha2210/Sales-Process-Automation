@@ -1,0 +1,13 @@
+{
+    "20250413191326_0_e54536e4": {
+        "lead_id": "0",
+        "company": "Tech Solutions Inc.",
+        "contact": "John Smith",
+        "email": "john.smith@techsolutions.example.com",
+        "sent_time": null,
+        "opened": false,
+        "clicked": false,
+        "responded": false,
+        "last_activity": null
+    }
+}

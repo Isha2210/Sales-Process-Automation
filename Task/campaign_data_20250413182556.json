@@ -1,0 +1,57 @@
+{
+    "20250413182556_0_3302131e": {
+        "lead_id": "0",
+        "company": "Tech Solutions Inc.",
+        "contact": "John Smith",
+        "email": "john.smith@techsolutions.example.com",
+        "sent_time": null,
+        "opened": false,
+        "clicked": false,
+        "responded": false,
+        "last_activity": null
+    },
+    "20250413182556_1_c7081c9b": {
+        "lead_id": "1",
+        "company": "Data Analytics Pro",
+        "contact": "Sarah Johnson",
+        "email": "sarah.j@dataanalyticspro.example.com",
+        "sent_time": null,
+        "opened": false,
+        "clicked": false,
+        "responded": false,
+        "last_activity": null
+    },
+    "20250413182556_2_f90baf2a": {
+        "lead_id": "2",
+        "company": "Cloud Systems LLC",
+        "contact": "Michael Brown",
+        "email": "m.brown@cloudsystems.example.com",
+        "sent_time": null,
+        "opened": false,
+        "clicked": false,
+        "responded": false,
+        "last_activity": null
+    },
+    "20250413182556_3_f80df4b0": {
+        "lead_id": "3",
+        "company": "AI Innovations",
+        "contact": "Jessica Lee",
+        "email": "jessica@aiinnovations.example.com",
+        "sent_time": null,
+        "opened": false,
+        "clicked": false,
+        "responded": false,
+        "last_activity": null
+    },
+    "20250413182556_4_90f4695c": {
+        "lead_id": "4",
+        "company": "Smart Manufacturing Inc.",
+        "contact": "Robert Chen",
+        "email": "r.chen@smartmanufacturing.example.com",
+        "sent_time": null,
+        "opened": false,
+        "clicked": false,
+        "responded": false,
+        "last_activity": null
+    }
+}

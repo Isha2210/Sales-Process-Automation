@@ -1,0 +1,33 @@
+{
+  "campaign_id": "20250414145110",
+  "analysis_timestamp": "2025-04-15 09:42:33",
+  "engagement_metrics": {
+    "total_visits": 5,
+    "unique_visitors": 5,
+    "conversions": 3,
+    "conversion_rate": 60.0,
+    "avg_engagement_time": 120.0,
+    "max_engagement_time": 180.0,
+    "traffic_sources": {
+      "google": 1,
+      "facebook": 1,
+      "direct": 1,
+      "linkedin": 1,
+      "twitter": 1
+    }
+  },
+  "lead_metrics": {
+    "total_leads": 3,
+    "demographics": {},
+    "lead_scores": {
+      "average": 80.0,
+      "max": 90.0,
+      "min": 65.0
+    },
+    "lead_statuses": {
+      "new": 1,
+      "contacted": 1,
+      "qualified": 1
+    }
+  }
+}

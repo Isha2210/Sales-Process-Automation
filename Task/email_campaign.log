@@ -1,0 +1,152 @@
+2025-04-13 18:25:56,221 - INFO - Successfully loaded 5 leads from output\leads_20250412_112414.xlsx
+2025-04-13 18:25:56,287 - INFO - Email campaign initialized with ID: 20250413182556
+2025-04-13 18:25:56,287 - INFO - Found 5 leads to process
+2025-04-13 18:25:56,287 - INFO - Starting email campaign with 5 leads
+2025-04-13 18:25:56,293 - INFO - Sending email 1/5 to john.smith@techsolutions.example.com (Tech Solutions Inc.)
+2025-04-13 18:25:59,909 - ERROR - Error sending email to john.smith@techsolutions.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-306dd188c8asm9378575a91.49 - gsmtp')
+2025-04-13 18:25:59,911 - ERROR - Failed to send email to john.smith@techsolutions.example.com
+2025-04-13 18:25:59,913 - INFO - Tracking data saved to campaign_data_20250413182556.json
+2025-04-13 18:25:59,913 - INFO - Waiting 121 seconds before sending next email...
+2025-04-13 18:28:00,916 - INFO - Sending email 2/5 to sarah.j@dataanalyticspro.example.com (Data Analytics Pro)
+2025-04-13 18:28:03,375 - ERROR - Error sending email to sarah.j@dataanalyticspro.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-306df06a75csm9194526a91.7 - gsmtp')
+2025-04-13 18:28:03,375 - ERROR - Failed to send email to sarah.j@dataanalyticspro.example.com
+2025-04-13 18:28:03,377 - INFO - Tracking data saved to campaign_data_20250413182556.json
+2025-04-13 18:28:03,377 - INFO - Waiting 121 seconds before sending next email...
+2025-04-13 18:30:04,380 - INFO - Sending email 3/5 to m.brown@cloudsystems.example.com (Cloud Systems LLC)
+2025-04-13 18:30:06,802 - ERROR - Error sending email to m.brown@cloudsystems.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22ac7b8b175sm82022655ad.85 - gsmtp')
+2025-04-13 18:30:06,802 - ERROR - Failed to send email to m.brown@cloudsystems.example.com
+2025-04-13 18:30:06,804 - INFO - Tracking data saved to campaign_data_20250413182556.json
+2025-04-13 18:30:06,805 - INFO - Waiting 144 seconds before sending next email...
+2025-04-13 18:32:30,809 - INFO - Sending email 4/5 to jessica@aiinnovations.example.com (AI Innovations)
+2025-04-13 18:32:33,328 - ERROR - Error sending email to jessica@aiinnovations.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-306dd11e73bsm9423336a91.18 - gsmtp')
+2025-04-13 18:32:33,329 - ERROR - Failed to send email to jessica@aiinnovations.example.com
+2025-04-13 18:32:33,332 - INFO - Tracking data saved to campaign_data_20250413182556.json
+2025-04-13 18:32:33,333 - INFO - Waiting 128 seconds before sending next email...
+2025-04-13 18:34:41,337 - INFO - Sending email 5/5 to r.chen@smartmanufacturing.example.com (Smart Manufacturing Inc.)
+2025-04-13 18:34:44,043 - ERROR - Error sending email to r.chen@smartmanufacturing.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b02a08183e2sm7713201a12.5 - gsmtp')
+2025-04-13 18:34:44,044 - ERROR - Failed to send email to r.chen@smartmanufacturing.example.com
+2025-04-13 18:34:44,046 - INFO - Tracking data saved to campaign_data_20250413182556.json
+2025-04-13 18:34:44,047 - INFO - Campaign completed: 0 emails sent successfully, 5 failed
+2025-04-13 18:34:44,054 - INFO - Campaign report generated and saved to campaign_report_20250413182556.json
+2025-04-13 19:00:20,599 - INFO - Successfully loaded 5 leads from output\leads_20250412_112414.xlsx
+2025-04-13 19:00:20,654 - INFO - Email campaign initialized with ID: 20250413190020
+2025-04-13 19:00:20,654 - INFO - Found 5 leads to process
+2025-04-13 19:00:20,654 - INFO - Starting email campaign with 5 leads
+2025-04-13 19:00:20,659 - INFO - Sending email 1/5 to john.smith@techsolutions.example.com (Tech Solutions Inc.)
+2025-04-13 19:00:23,771 - ERROR - Error sending email to john.smith@techsolutions.example.com: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-306df400ab7sm9214719a91.47 - gsmtp')
+2025-04-13 19:00:23,772 - ERROR - Failed to send email to john.smith@techsolutions.example.com
+2025-04-13 19:00:23,773 - INFO - Tracking data saved to campaign_data_20250413190020.json
+2025-04-13 19:00:23,773 - INFO - Waiting 172 seconds before sending next email...
+2025-04-13 19:03:15,834 - INFO - Sending email 2/5 to sarah.j@dataanalyticspro.example.com (Data Analytics Pro)
+2025-04-13 19:03:19,118 - ERROR - Error sending email to sarah.j@dataanalyticspro.example.com: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 41be03b00d2f7-b02a0cf38dasm6556834a12.23 - gsmtp')
+2025-04-13 19:03:19,118 - ERROR - Failed to send email to sarah.j@dataanalyticspro.example.com
+2025-04-13 19:03:19,121 - INFO - Tracking data saved to campaign_data_20250413190020.json
+2025-04-13 19:03:19,122 - INFO - Waiting 90 seconds before sending next email...
+2025-04-13 19:04:49,125 - INFO - Sending email 3/5 to m.brown@cloudsystems.example.com (Cloud Systems LLC)
+2025-04-13 19:04:52,160 - ERROR - Error sending email to m.brown@cloudsystems.example.com: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-22ac7b62b7dsm82153245ad.50 - gsmtp')
+2025-04-13 19:04:52,161 - ERROR - Failed to send email to m.brown@cloudsystems.example.com
+2025-04-13 19:04:52,163 - INFO - Tracking data saved to campaign_data_20250413190020.json
+2025-04-13 19:04:52,163 - INFO - Waiting 125 seconds before sending next email...
+2025-04-13 19:06:57,167 - INFO - Sending email 4/5 to jessica@aiinnovations.example.com (AI Innovations)
+2025-04-13 19:07:00,367 - ERROR - Error sending email to jessica@aiinnovations.example.com: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d2e1a72fcca58-73bd22f0fc5sm5072045b3a.91 - gsmtp')
+2025-04-13 19:07:00,368 - ERROR - Failed to send email to jessica@aiinnovations.example.com
+2025-04-13 19:07:00,371 - INFO - Tracking data saved to campaign_data_20250413190020.json
+2025-04-13 19:07:00,371 - INFO - Waiting 158 seconds before sending next email...
+2025-04-13 19:09:38,377 - INFO - Sending email 5/5 to r.chen@smartmanufacturing.example.com (Smart Manufacturing Inc.)
+2025-04-13 19:09:41,540 - ERROR - Error sending email to r.chen@smartmanufacturing.example.com: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-22ac7cb5311sm82178095ad.169 - gsmtp')
+2025-04-13 19:09:41,540 - ERROR - Failed to send email to r.chen@smartmanufacturing.example.com
+2025-04-13 19:09:41,546 - INFO - Tracking data saved to campaign_data_20250413190020.json
+2025-04-13 19:09:41,550 - INFO - Campaign completed: 0 emails sent successfully, 5 failed
+2025-04-13 19:09:41,565 - INFO - Campaign report generated and saved to campaign_report_20250413190020.json
+2025-04-13 19:13:26,435 - INFO - Successfully loaded 5 leads from output\leads_20250412_112414.xlsx
+2025-04-13 19:13:26,499 - INFO - Email campaign initialized with ID: 20250413191326
+2025-04-13 19:13:26,500 - INFO - Found 5 leads to process
+2025-04-13 19:13:26,500 - INFO - Starting email campaign with 5 leads
+2025-04-13 19:13:26,507 - INFO - Sending email 1/5 to john.smith@techsolutions.example.com (Tech Solutions Inc.)
+2025-04-13 19:13:30,109 - ERROR - Error sending email to john.smith@techsolutions.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b02a08181f2sm7821570a12.16 - gsmtp')
+2025-04-13 19:13:30,111 - ERROR - Failed to send email to john.smith@techsolutions.example.com
+2025-04-13 19:13:30,115 - INFO - Tracking data saved to campaign_data_20250413191326.json
+2025-04-13 19:13:30,116 - INFO - Waiting 91 seconds before sending next email...
+2025-04-13 19:14:24,003 - INFO - Successfully loaded 5 leads from output\leads_20250412_112414.xlsx
+2025-04-13 19:14:24,018 - INFO - Email campaign initialized with ID: 20250413191424
+2025-04-13 19:14:24,018 - INFO - Found 5 leads to process
+2025-04-13 19:14:24,018 - INFO - Starting email campaign with 5 leads
+2025-04-13 19:14:24,020 - INFO - Sending email 1/5 to john.smith@techsolutions.example.com (Tech Solutions Inc.)
+2025-04-13 19:14:27,230 - ERROR - Error sending email to john.smith@techsolutions.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22ac7b628b9sm82600325ad.29 - gsmtp')
+2025-04-13 19:14:27,230 - ERROR - Failed to send email to john.smith@techsolutions.example.com
+2025-04-13 19:14:27,233 - INFO - Tracking data saved to campaign_data_20250413191424.json
+2025-04-13 19:14:27,234 - INFO - Waiting 107 seconds before sending next email...
+2025-04-13 19:16:14,236 - INFO - Sending email 2/5 to sarah.j@dataanalyticspro.example.com (Data Analytics Pro)
+2025-04-13 19:16:17,257 - ERROR - Error sending email to sarah.j@dataanalyticspro.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22ac7b65a88sm82546425ad.37 - gsmtp')
+2025-04-13 19:16:17,257 - ERROR - Failed to send email to sarah.j@dataanalyticspro.example.com
+2025-04-13 19:16:17,259 - INFO - Tracking data saved to campaign_data_20250413191424.json
+2025-04-13 19:16:17,259 - INFO - Waiting 64 seconds before sending next email...
+2025-04-13 19:17:21,262 - INFO - Sending email 3/5 to m.brown@cloudsystems.example.com (Cloud Systems LLC)
+2025-04-13 19:17:24,390 - ERROR - Error sending email to m.brown@cloudsystems.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22ac7ccc98csm82368805ad.253 - gsmtp')
+2025-04-13 19:17:24,390 - ERROR - Failed to send email to m.brown@cloudsystems.example.com
+2025-04-13 19:17:24,392 - INFO - Tracking data saved to campaign_data_20250413191424.json
+2025-04-13 19:17:24,392 - INFO - Waiting 104 seconds before sending next email...
+2025-04-14 11:08:17,390 - INFO - Successfully loaded 5 leads from output\leads_20250412_112414.xlsx
+2025-04-14 11:08:17,566 - INFO - Email campaign initialized with ID: 20250414110817
+2025-04-14 11:08:17,566 - INFO - Found 5 leads to process
+2025-04-14 11:08:17,566 - INFO - Starting email campaign with 5 leads
+2025-04-14 11:08:17,573 - INFO - Sending email 1/5 to john.smith@techsolutions.example.com (Tech Solutions Inc.)
+2025-04-14 11:08:20,988 - ERROR - Error sending email to john.smith@techsolutions.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73bd2198d95sm6014270b3a.17 - gsmtp')
+2025-04-14 11:08:20,989 - ERROR - Failed to send email to john.smith@techsolutions.example.com
+2025-04-14 11:08:20,990 - INFO - Tracking data saved to campaign_data_20250414110817.json
+2025-04-14 11:08:20,991 - INFO - Waiting 147 seconds before sending next email...
+2025-04-14 11:10:34,890 - INFO - Successfully loaded 5 leads from output\leads_20250412_112414.xlsx
+2025-04-14 11:10:34,899 - INFO - Email campaign initialized with ID: 20250414111034
+2025-04-14 11:10:34,899 - INFO - Found 5 leads to process
+2025-04-14 11:10:34,900 - INFO - Starting email campaign with 5 leads
+2025-04-14 11:10:34,901 - INFO - Sending email 1/5 to john.smith@techsolutions.example.com (Tech Solutions Inc.)
+2025-04-14 11:10:38,063 - ERROR - Error sending email to john.smith@techsolutions.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22ac7ccca1bsm92008775ad.255 - gsmtp')
+2025-04-14 11:10:38,089 - ERROR - Failed to send email to john.smith@techsolutions.example.com
+2025-04-14 11:10:38,091 - INFO - Tracking data saved to campaign_data_20250414111034.json
+2025-04-14 11:10:38,092 - INFO - Waiting 133 seconds before sending next email...
+2025-04-14 11:12:51,094 - INFO - Sending email 2/5 to sarah.j@dataanalyticspro.example.com (Data Analytics Pro)
+2025-04-14 11:12:54,215 - ERROR - Error sending email to sarah.j@dataanalyticspro.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73bd22f82a3sm6025026b3a.90 - gsmtp')
+2025-04-14 11:12:54,216 - ERROR - Failed to send email to sarah.j@dataanalyticspro.example.com
+2025-04-14 11:12:54,217 - INFO - Tracking data saved to campaign_data_20250414111034.json
+2025-04-14 11:12:54,218 - INFO - Waiting 177 seconds before sending next email...
+2025-04-14 11:15:51,219 - INFO - Sending email 3/5 to m.brown@cloudsystems.example.com (Cloud Systems LLC)
+2025-04-14 11:15:54,404 - ERROR - Error sending email to m.brown@cloudsystems.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73bd23351fbsm6024589b3a.171 - gsmtp')
+2025-04-14 11:15:54,404 - ERROR - Failed to send email to m.brown@cloudsystems.example.com
+2025-04-14 11:15:54,406 - INFO - Tracking data saved to campaign_data_20250414111034.json
+2025-04-14 11:15:54,407 - INFO - Waiting 111 seconds before sending next email...
+2025-04-14 11:17:45,409 - INFO - Sending email 4/5 to jessica@aiinnovations.example.com (AI Innovations)
+2025-04-14 11:17:51,162 - ERROR - Error sending email to jessica@aiinnovations.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22ac7b62922sm91082145ad.51 - gsmtp')
+2025-04-14 11:17:51,163 - ERROR - Failed to send email to jessica@aiinnovations.example.com
+2025-04-14 11:17:51,165 - INFO - Tracking data saved to campaign_data_20250414111034.json
+2025-04-14 11:17:51,166 - INFO - Waiting 161 seconds before sending next email...
+2025-04-14 11:20:32,169 - INFO - Sending email 5/5 to r.chen@smartmanufacturing.example.com (Smart Manufacturing Inc.)
+2025-04-14 11:20:35,279 - ERROR - Error sending email to r.chen@smartmanufacturing.example.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22ac7cb53d0sm91519455ad.175 - gsmtp')
+2025-04-14 11:20:35,279 - ERROR - Failed to send email to r.chen@smartmanufacturing.example.com
+2025-04-14 11:20:35,281 - INFO - Tracking data saved to campaign_data_20250414111034.json
+2025-04-14 11:20:35,281 - INFO - Campaign completed: 0 emails sent successfully, 5 failed
+2025-04-14 11:20:35,282 - INFO - Campaign report generated and saved to campaign_report_20250414111034.json
+2025-04-14 11:25:01,181 - INFO - Successfully loaded 5 leads from output\leads_20250412_112414.xlsx
+2025-04-14 11:25:01,189 - INFO - Email campaign initialized with ID: 20250414112501
+2025-04-14 11:25:01,189 - INFO - Found 5 leads to process
+2025-04-14 11:25:01,190 - INFO - Starting email campaign with 5 leads
+2025-04-14 11:25:01,191 - INFO - Sending email 1/5 to john.smith@techsolutions.example.com (Tech Solutions Inc.)
+2025-04-14 11:25:05,347 - INFO - Email successfully sent to john.smith@techsolutions.example.com
+2025-04-14 11:25:05,382 - INFO - Tracking data saved to campaign_data_20250414112501.json
+2025-04-14 11:25:05,383 - INFO - Waiting 142 seconds before sending next email...
+2025-04-14 11:27:27,385 - INFO - Sending email 2/5 to sarah.j@dataanalyticspro.example.com (Data Analytics Pro)
+2025-04-14 11:27:31,420 - INFO - Email successfully sent to sarah.j@dataanalyticspro.example.com
+2025-04-14 11:27:31,442 - INFO - Tracking data saved to campaign_data_20250414112501.json
+2025-04-14 11:27:31,442 - INFO - Waiting 78 seconds before sending next email...
+2025-04-14 11:28:49,443 - INFO - Sending email 3/5 to m.brown@cloudsystems.example.com (Cloud Systems LLC)
+2025-04-14 11:28:53,502 - INFO - Email successfully sent to m.brown@cloudsystems.example.com
+2025-04-14 11:28:53,504 - INFO - Tracking data saved to campaign_data_20250414112501.json
+2025-04-14 11:28:53,505 - INFO - Waiting 170 seconds before sending next email...
+2025-04-14 11:31:43,509 - INFO - Sending email 4/5 to jessica@aiinnovations.example.com (AI Innovations)
+2025-04-14 11:31:48,307 - INFO - Email successfully sent to jessica@aiinnovations.example.com
+2025-04-14 11:31:48,309 - INFO - Tracking data saved to campaign_data_20250414112501.json
+2025-04-14 11:31:48,310 - INFO - Waiting 148 seconds before sending next email...
+2025-04-14 11:34:16,314 - INFO - Sending email 5/5 to r.chen@smartmanufacturing.example.com (Smart Manufacturing Inc.)
+2025-04-14 11:34:21,498 - INFO - Email successfully sent to r.chen@smartmanufacturing.example.com
+2025-04-14 11:34:21,502 - INFO - Tracking data saved to campaign_data_20250414112501.json
+2025-04-14 11:34:21,502 - INFO - Campaign completed: 5 emails sent successfully, 0 failed
+2025-04-14 11:34:21,504 - INFO - Campaign report generated and saved to campaign_report_20250414112501.json
