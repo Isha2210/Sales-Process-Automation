@@ -111,6 +111,6 @@ This will:
 •	Categorize leads based on engagement
 •	Generate an Excel report with
 
-(8) Technology used:
+(8) Technologies used:
 Python and AI/ML
 Editor: PyCharm 
