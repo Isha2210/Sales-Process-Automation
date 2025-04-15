@@ -114,3 +114,16 @@ This will:
 (8) Technologies used:
 Python and AI/ML
 Editor: PyCharm 
+
+AI/ML Concepts Used:
+Web Scraping: BeautifulSoup and Selenium for intelligent data extraction
+Data Processing: Pandas for data manipulation and analysis
+Email Personalization: Template-based content generation with NLP concepts
+Analytics: Statistical analysis of campaign performance
+
+Python Libraries and Skills:
+Web Automation: Selenium, requests, BeautifulSoup
+Data Processing: Pandas, matplotlib
+Email Automation: smtplib, email.mime
+Web Server: Flask for tracking pixel/link handling
+Visualization: Matplotlib for
